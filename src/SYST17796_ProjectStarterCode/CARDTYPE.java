@@ -1,0 +1,19 @@
+package SYST17796_ProjectStarterCode;
+
+public enum CARDTYPE {
+	ONE,
+	TWO,
+	THREE,
+	FOUR,
+	FIVE,
+	SIX,
+	SEVEN,
+	EIGHT,
+	NINE,
+	SKIP,
+	REVERSE ,
+	WILDCARD,
+	WILDCARDSCOLORCHANGE,
+	PLUSTWO,
+	PLUSFOUR
+}
